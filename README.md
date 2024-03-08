@@ -1,1 +1,1 @@
-# Sudoku-Puzzle-Generator
+# Sudoku-Puzzle-GeneratorImplemented a Sudoku puzzle generator in Python, utilizing the svgwrite library to create Sudoku puzzles of varying difficulty levels (Easy, Medium, Hard). The program generates both the puzzle and its solution, saving them as separate SVG files with a clean and universally compatible format. The Sudoku generator adheres to the rules of the game, ensuring valid and challenging puzzles for users. The project showcases proficiency in Python programming, algorithm design, and SVG file manipulation.
